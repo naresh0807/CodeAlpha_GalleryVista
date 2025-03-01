@@ -1,1 +1,1 @@
-# CodeAlpha_GalleryVista
+# CodeAlpha_imagegallery
